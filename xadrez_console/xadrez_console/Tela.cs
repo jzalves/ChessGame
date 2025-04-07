@@ -1,5 +1,5 @@
 ﻿using tabuleiro;
-namespace ChessGame
+namespace xadrez_console
 {
     class Tela
     {
